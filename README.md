@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldenmoon67" alt="goldenmoon67" /></a> </p>
 
-- 🔭 I’m currently working on [zero2hero](zero2hero.net) as a flutter mobile developer
+- 🔭 I’m currently working on [zero2hero](www.zero2hero.net) as a flutter mobile developer
 
 - 🌱 I’m currently learning **nodeJs, graphQL,AI**
 
